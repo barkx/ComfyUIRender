@@ -2,7 +2,7 @@
 
 A [pyRevit](https://github.com/pyRevitLabs/pyRevit) plugin that connects Autodesk Revit directly to [ComfyUI](https://github.com/comfyanonymous/ComfyUI). Capture your 3D view, write a prompt, and get an AI-rendered image — without leaving Revit.
 
-![ComfyUIRender Screenshot](screenshot.png)
+![Demo Animation](./assets/demo.gif)
 
 ---
 

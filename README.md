@@ -49,7 +49,7 @@ Download and install from the [pyRevit releases page](https://github.com/pyRevit
 Follow the [ComfyUI installation guide](https://github.com/comfyanonymous/ComfyUI#installing). Install all required custom nodes and models listed above.
 
 ### 3. Install ComfyUIRender
-1. Download the latest `ComfyUIRender.zip` from [Releases](https://github.com/barkx/ComfyUIRender/releases)
+1. Download the latest `ComfyUIRender.zip` from [Releases](https://github.com/barkx/ComfyUIRender)
 2. Extract the ZIP
 3. Run `Install.bat`
 4. The installer will detect your pyRevit Extensions folder automatically
